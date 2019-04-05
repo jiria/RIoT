@@ -1,4 +1,4 @@
 [submodule "External/tinycbor"]
 	path = External/tinycbor
-	url = https://github.com/intel/tinycbor.git
-	branch = dev
+	url = https://github.com/jiria/tinycbor.git
+	branch = jiria/riot-snapshot
